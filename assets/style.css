@@ -222,6 +222,8 @@ section[id] { scroll-margin-top: 4.5rem; }
 
 /* 結尾 */
 .end { text-align: center; }
+.end-pic { margin: 0 auto 2.5rem; max-width: 880px; }
+.end-pic img { display: block; width: 100%; height: auto; border-radius: 28px; }
 .end-in h2 { font-size: clamp(1.875rem, 1.3rem + 2.4vw, 3.25rem); margin: 0 auto 2rem; max-width: 22em; }
 
 /* ---- 文件頁（隱私、支援、404） ---- */
